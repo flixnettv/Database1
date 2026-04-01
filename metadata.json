@@ -1,0 +1,9 @@
+{
+  "name": "Flix Gosts",
+  "description": "A powerful, extensible personal assistant with offline support, integrated terminal, and advanced AI personas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
